@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri Z:/Documents/GIT/Macro_Keyboard/Librarys/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+)
